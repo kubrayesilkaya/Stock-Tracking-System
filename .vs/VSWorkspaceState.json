@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Capstone",
+    "\\Capstone\\Controllers",
+    "\\Capstone\\Models",
+    "\\Capstone\\Models\\DBContext",
+    "\\Capstone\\Models\\Entities",
+    "\\Capstone\\Services"
+  ],
+  "PreviewInSolutionExplorer": false
+}
