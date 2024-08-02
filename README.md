@@ -1,5 +1,5 @@
 # Stock-Tracking-System
- A Smart Stock Tracking system developed using .NET and Angular technologies.
+ A Smart Stock Tracking System developed using .NET and Angular technologies.
 The Smart Stock Tracking project is basically a system of data storage, data movements and data transformation processes. The system includes stock update transactions, reporting options and data analysis alerts module. 
 
 ![image](https://github.com/user-attachments/assets/d76b6a13-c71b-45f1-879f-d3866d535564)
